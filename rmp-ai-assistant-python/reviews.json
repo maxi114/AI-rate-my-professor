@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Prof. John Smith",
+        "review": "Great professor, explains concepts clearly and is always available for extra help.",
+        "subject": "Math",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Emily Johnson",
+        "review": "Very knowledgeable but tends to go off-topic sometimes.",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Michael Lee",
+        "review": "Tough grader but fair. Expect to work hard in his class.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Sarah Davis",
+        "review": "Engaging lectures and makes learning fun.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Robert Brown",
+        "review": "Could use more examples during lectures.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Jessica Wilson",
+        "review": "Very strict with attendance but overall a good teacher.",
+        "subject": "English",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. David Miller",
+        "review": "Hard to understand at times, but willing to help if you ask.",
+        "subject": "Economics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Karen Martinez",
+        "review": "Encourages students to participate and ask questions.",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Charles Hernandez",
+        "review": "Assignments are challenging but rewarding.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Patricia Garcia",
+        "review": "Explains things too fast, hard to keep up.",
+        "subject": "Art History",
+        "stars": 2
+      },
+      {
+        "professor": "Prof. Christopher Clark",
+        "review": "Very approachable and helpful during office hours.",
+        "subject": "Philosophy",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Jennifer Lewis",
+        "review": "Good professor but gives a lot of homework.",
+        "subject": "Literature",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Matthew Walker",
+        "review": "Not very engaging, lectures can be boring.",
+        "subject": "Political Science",
+        "stars": 2
+      },
+      {
+        "professor": "Prof. Laura Young",
+        "review": "Brilliant professor, learned a lot in her class.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Andrew Allen",
+        "review": "Nice professor, but the exams are really tough.",
+        "subject": "Statistics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Megan King",
+        "review": "Class is interesting and she is very enthusiastic.",
+        "subject": "Anthropology",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Richard Scott",
+        "review": "Lectures are clear, but he doesn't respond to emails quickly.",
+        "subject": "Geography",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Lisa Hill",
+        "review": "Her tests are tricky, but she prepares you well.",
+        "subject": "Law",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. James Green",
+        "review": "His passion for the subject is contagious.",
+        "subject": "Music",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Susan Adams",
+        "review": "Assignments are very detailed, but she is helpful during office hours.",
+        "subject": "Engineering",
+        "stars": 4
+      }
+    ]
+  }
+  
