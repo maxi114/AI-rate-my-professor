@@ -6,7 +6,7 @@ import Footer from "@/components/ui/Footer";
 
 export default function Home() {
   return (
-    <div className="text-black bg-black" style={{minHeight:"100vh"}}>
+    <div className="text-black " style={{minHeight:"100vh", backgroundColor:"black"}}>
     
       <Head>
         <title>AI Rate My Professor</title>
