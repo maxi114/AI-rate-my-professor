@@ -41,7 +41,7 @@ export async function POST(req) {
   });
 
   //process the pinecone results into readable string
-  //variable to store pinecone results
+  //variable to store pincone results
   let resultString = "";
 
   results.matches.forEach((match) => {
